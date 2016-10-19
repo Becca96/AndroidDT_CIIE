@@ -1,0 +1,3 @@
+Observaciones
+
+- Hay que subir todo el código no sólo los archivos que han creado, hay que subir la carpeta completa que crea el android studio cuando se crea el proyecto
